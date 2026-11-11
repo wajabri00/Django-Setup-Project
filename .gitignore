@@ -1,0 +1,17 @@
+# Environnements virtuels
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Django
+staticfiles/
+media/
+.env
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.idea/
